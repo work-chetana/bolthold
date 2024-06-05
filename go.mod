@@ -1,4 +1,4 @@
-module github.com/timshannon/bolthold
+module github.com/work-chetana/bolthold
 
 go 1.16
 
